@@ -1,4 +1,0 @@
-{
- "body": "{\"format\":1,\"app\":\"obs_panel_trial\",\"latest\":{\"paid\":{\"version\":\"2.1\",\"date\":\"2026-09-17\",\"notes\":[\"アップデートの確認用の新しい版です（テスト用）\",\"この画面が出ていれば、アップデートは成功です\",\"スマホ操作.exe も新しい版（2.3.1）に入れ替わります\"]}},\"notices\":[{\"id\":\"trial1\",\"date\":\"2026-09-17\",\"title\":\"お知らせのテストです\",\"text\":\"この表示が出ていれば、お知らせはお客さまの画面に届いています。お知らせは「⚙」→ メニューのいちばん上から開けます。\",\"link\":\"https://accounts.booth.pm/library\"}]}",
- "sig": "pRTRNXjJeTXqbzBusfRcKe59KFMMMtaojzz6uhUpUH8UMOVp6aaCiV5sDVGyulwNMqlC9cG7Ck10s7q/yAqsxA=="
-}
